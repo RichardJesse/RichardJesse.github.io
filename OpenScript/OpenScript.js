@@ -510,7 +510,7 @@ var OpenScript = {
      */
     MediatorManager: class MediatorManager {
         
-        static directory = "./mediators";
+        static directory = "./medators";
         static version = "1.0.0";
         mediators = new Map();
 
